@@ -1,7 +1,6 @@
 import random
 
 number = random.randint(1, 100)
-#print(number)
 print(
     '''
     Игра Угадай Число
